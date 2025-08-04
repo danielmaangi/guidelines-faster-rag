@@ -44,8 +44,8 @@ A high-performance Retrieval-Augmented Generation (RAG) application built with *
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd faster-rag
+   git clone https://github.com/danielmaangi/guidelines-faster-rag.git
+   cd guidelines-faster-rag
    ```
 
 2. **Install dependencies**
